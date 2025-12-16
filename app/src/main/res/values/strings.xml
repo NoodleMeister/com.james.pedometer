@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pedometer</string>
+
+    <!-- Main -->
+    <string name="settings">Settings</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">Pedometer Settings</string>
+    <string name="battery_status">Battery optimization status</string>
+
+    <string name="request_ignore_battery">
+        Request "Ignore battery optimizations"
+    </string>
+
+    <string name="battery_optimization_list">
+        Battery optimization list
+    </string>
+
+    <string name="app_details">
+        App details / OEM background settings
+    </string>
+
+    <string name="hardware_note">
+        Note: Some watches disable motion sensors when the screen is off.
+        If steps stop while asleep, that can be a hardware limitation.
+    </string>
+
+    <string name="battery_good">
+        Battery optimization: OFF (good)
+    </string>
+
+    <string name="battery_bad">
+        Battery optimization: ON (may limit background work)
+    </string>
+
+    <!-- Extra diagnostics -->
+    <string name="keep_screen_on">
+        Keep screen on for accuracy (uses more battery)
+    </string>
+
+    <string name="wakelock_status">
+        WakeLock status
+    </string>
+
+</resources>
