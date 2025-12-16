@@ -6,4 +6,4 @@ You can multiply the steps by a factor of 1/2/3 if the sensor isn't very good.
 
 I made this entirely with chatgpt so use at your own risk. 
 
-[Download James' Pedometer APK](downloads/JamesPedometerv-1.0.apk)
+[Download James' Pedometer APK](downloads/JamesPedometer-v1.1.apk)
